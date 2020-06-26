@@ -15,18 +15,18 @@ Small Alpine Docker image with mongo, npm, postgres client.
 
 # Installed Packages
 
-* [bash](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/bash)
-* [curl](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/curl)
-* [git](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/git)
-* [jq](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/jq)
-* [libc6-compat](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/libc6-compat)
+* [bash](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/bash)
+* [curl](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/curl)
+* [git](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/git)
+* [jq](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/jq)
+* [libc6-compat](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/libc6-compat)
 * [mongodb](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/mongodb)
 * [mongodb-tools](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/mongodb-tools)
-* [nodejs](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/nodejs)
-* [npm](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/bpm)
-* [openssh-client](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/openssh-client)
-* [python3](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/python3)
-* [postgresql-client](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/postgresql-client)
+* [nodejs](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/nodejs)
+* [npm](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/bpm)
+* [openssh-client](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/openssh-client)
+* [python3](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/python3)
+* [postgresql-client](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/postgresql-client)
 
 
 # Installed Packages (Python3 - pip)
