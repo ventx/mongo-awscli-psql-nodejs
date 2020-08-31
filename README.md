@@ -20,6 +20,7 @@ Small Alpine Docker image with mongo, npm, postgres client.
 * [git](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/git)
 * [jq](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/jq)
 * [libc6-compat](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/libc6-compat)
+* [make](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/make)
 * [mongodb](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/mongodb)
 * [mongodb-tools](https://pkgs.alpinelinux.org/package/v3.9/community/x86_64/mongodb-tools)
 * [nodejs](https://pkgs.alpinelinux.org/package/v3.9/main/x86_64/nodejs)

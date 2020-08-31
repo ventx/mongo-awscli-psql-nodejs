@@ -12,6 +12,7 @@ RUN apk --update --no-cache add \
   nodejs \
   npm \
   curl \
+  make \
   bash && pip3 install awscli
 
 WORKDIR /root
